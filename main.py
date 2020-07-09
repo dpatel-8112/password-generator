@@ -2,10 +2,10 @@
 # Importing 'string' module
 import string
 
-# Importing 'ransom' module
+# Importing 'random' module
 import random
 
-# Importing main Function
+#  main Function
 if __name__ == "__main__":
 
     # Store 'string constants'
